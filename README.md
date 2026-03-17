@@ -35,25 +35,18 @@
 📡 优化思路（实测有效）
 
 以下类型的网络环境通常更稳定： 
-
-  🌍 多地区网络分流
-  
-  🧩 双ISP结构（减少拥堵）
-  
-  🏠 家庭网络出口（更接近真实用户）
-  
-  ⚡ 高带宽节点（高峰更稳）
+- 🌍 多地区网络分流
+- 🧩 双ISP结构（减少拥堵）
+- 🏠 家庭网络出口（更接近真实用户）
+- ⚡ 高带宽节点（高峰更稳）
 
 ## 📡 实测可用方案（推荐）
 目前有一类方案专门针对上述问题进行了优化，稳定的ISP纯净网络提供商，注册免费试用：
-
-白羊加速：
+- 白羊加速：
 👉 https://baiyangjiasu.com/register?invite=p5Jw16qy
-
-试用订阅：
+- 试用订阅：
 https://baiyangweb.bopt1.com/baiyang/b0635c63eac71365ac15336ecfd3b33a?flag=clash
-
-测试截图：
+- 测试截图：
 <img width="1184" height="727" alt="image" src="https://github.com/user-attachments/assets/6e8e3aac-1d50-4dd7-9437-4a3259acc8a5" />
 
 特点：
