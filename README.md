@@ -18,14 +18,7 @@ ISP: Residential Network
 类型: 家庭宽带
 评分: 85 / 100
 环境: 优质环境
-<img width="481" height="292" alt="image" src="https://github.com/user-attachments/assets/675a628b-f8a8-45dc-94a1-3397cf126314" />
 
-## 🚀 使用方法
-
-```bash
-pip install requests
-python main.py
-```bash
 🧠 为什么你的 openclaw 不稳定？
 
 很多人遇到的问题：
@@ -52,6 +45,8 @@ ISP结构（单ISP / 多ISP）
 白羊加速：
 👉 https://baiyangjiasu.com/register?invite=p5Jw16qy
 
+试用订阅：
+https://baiyangweb.bopt1.com/baiyang/b0635c63eac71365ac15336ecfd3b33a?flag=clash
 测试截图：
 <img width="1184" height="727" alt="image" src="https://github.com/user-attachments/assets/6e8e3aac-1d50-4dd7-9437-4a3259acc8a5" />
 
